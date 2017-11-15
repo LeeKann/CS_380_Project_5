@@ -1,6 +1,6 @@
 /*
 *Eric Kannampuzha
-*Project 3
+*Project 5
 *Class UdpClient.java
 *CS 380
 *Nima
